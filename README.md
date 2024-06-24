@@ -1,1 +1,1 @@
-#written by shubhanshu Kumar 
+#developed by shubhanshu Kumar
